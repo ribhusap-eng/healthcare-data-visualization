@@ -26,12 +26,3 @@ The dataset is a synthetic healthcare dataset obtained from Kaggle:
 6. **2D Density Plot**:
    - Visualizes billing amounts by age groups for specific medical conditions.
 
-## Files
-- `analysis/Final Report Code.R`: R script containing all the visualizations.
-- `report/DSC465 Final Report.pdf`: Comprehensive report detailing the analysis and findings.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tejas-1911/Healthcare-Data-Visualization.git
-
